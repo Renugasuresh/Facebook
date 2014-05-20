@@ -4,7 +4,8 @@ phonebook={
 	"parnitha":6457485094,
 	"Renuga":4867846495
 	}
-phonebook.update({"keerthan":736438})
+phonebook.update({"yogesh":736438})
 
 for name,number in phonebook.iteritems():
 	print "phone number of %s is %d"%(name,number)
+#this program is to try list
